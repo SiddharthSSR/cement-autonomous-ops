@@ -1,0 +1,5 @@
+ts,tag,value,unit,equipment,line,quality_context
+2025-09-06T06:00:00Z,kiln.main_flame_temp,1430.5,C,KilnMain,Line1,
+2025-09-06T06:00:00Z,mill1.motor_power,3200,kW,RawMill1,Line1,
+2025-09-06T06:00:00Z,rawmeal.lsf,98.5,,BlendingSilo,Line1,rawmeal_lsf
+

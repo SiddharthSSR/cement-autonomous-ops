@@ -1,0 +1,23 @@
+# Core Python
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Google Cloud SDKs
+google-cloud-pubsub>=2.20.0
+google-cloud-bigquery>=3.16.0
+google-cloud-storage>=2.12.0
+google-cloud-aiplatform>=1.48.0
+
+# Apache Beam (for Dataflow pipelines)
+apache-beam[gcp]>=2.55.0
+
+# Machine Learning / Modeling
+scikit-learn>=1.4.0
+
+# API / Utils (optional, for future Copilot/Control API)
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+
+# Data validation & schema utils (optional, but recommended)
+pyarrow>=16.0.0
+great-expectations>=0.18.12

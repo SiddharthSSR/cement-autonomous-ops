@@ -1,0 +1,10 @@
+[
+  { "name": "ts",              "type": "TIMESTAMP", "mode": "REQUIRED" },
+  { "name": "tag",             "type": "STRING",    "mode": "REQUIRED" },
+  { "name": "value",           "type": "FLOAT",     "mode": "NULLABLE" },
+  { "name": "unit",            "type": "STRING",    "mode": "NULLABLE" },
+  { "name": "equipment",       "type": "STRING",    "mode": "NULLABLE" },
+  { "name": "line",            "type": "STRING",    "mode": "NULLABLE" },
+  { "name": "quality_context", "type": "STRING",    "mode": "NULLABLE" }
+]
+
